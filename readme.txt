@@ -1,12 +1,12 @@
 === Terry's Commentary ===
-**Contributors:** tychay    
-**Donate link:** http://www.kiva.org/lender/tychay    
-**Tags:** tooltip, tool-tip, commentary, tip, tips    
-**Requires at least:** 2.5    
-**Tested up to:** 4.2.2    
-**Stable tag:** trunk    
-**License:** GPLv2 or later    
-**License URI:** http://www.gnu.org/licenses/gpl-2.0.html    
+Contributors: tychay  
+Donate link: http://www.kiva.org/lender/tychay  
+Tags: tooltip, tool-tip, commentary, tip, tips  
+Requires at least: 2.5  
+Tested up to: 4.2.2  
+Stable tag: trunk  
+License: GPLv2 or later  
+License URI: http://www.gnu.org/licenses/gpl-2.0.html  
 
 Enables response/mobile-friendly text-based tooltip/commentary popups.
 
@@ -96,12 +96,8 @@ will open your theme's Stylesheet `style.css` and you can edit the
 
 == Screenshots ==
 
-###1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from###
-[missing image]
-
-###2. This is the second screen shot###
-[missing image]
-
+1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
+2. This is the second screen shot
 
 == Changelog ==
 
@@ -116,4 +112,3 @@ will open your theme's Stylesheet `style.css` and you can edit the
 == Arbitrary section ==
 
 This is an arbitrary section. :-)
-
